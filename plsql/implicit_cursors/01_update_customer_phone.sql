@@ -1,4 +1,4 @@
-# Implicit Cursor - Update Customer Phone
+## Implicit Cursor - Update Customer Phone
 
 ## Purpose
 Updates a customer's phone number.
